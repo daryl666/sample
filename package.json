@@ -4,7 +4,13 @@
     "gulp": "^3.8.8"
   },
   "dependencies": {
-    "laravel-elixir": "^4.0.0",
-    "bootstrap-sass": "^3.0.0"
-  }
+    "bootstrap-sass": "^3.0.0",
+    "laravel-elixir": "^4.0.0"
+  },
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daryl666/sample.git",
+  "author": "daryl666 <yy931105@qq.com>",
+  "license": "MIT"
 }
